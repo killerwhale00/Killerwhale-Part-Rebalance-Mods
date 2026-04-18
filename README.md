@@ -1,3 +1,7 @@
+a set of mods aiming to rebalance parts to have better balanced features or have a niche that was previously left open
+
+Changelog
+
 RA-100 Buff
 - Communication range increased from 130 Gm to 1 Terameter for system wide relay networks.
 - Mass increased from 0.65t to 2t
