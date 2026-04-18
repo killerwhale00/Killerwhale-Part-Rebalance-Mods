@@ -1,4 +1,4 @@
-a set of mods aiming to rebalance parts to have better balanced features or have a niche that was previously left open
+A set of mods aiming to rebalance parts to have better balanced features or have a niche that was previously left open
 
 Changelog
 
