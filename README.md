@@ -9,7 +9,7 @@ RA-100 Buff
 Communotron 16, 16-S, and HG-5 antennas
 - communication range increased to 2.5Gm Mm, making them usefull for drones as long as you have a relay in the planetary sytem (jool has 2.3Gm SOI) 
 
+----
+CH-J3 Fly-By-Wire controller
 
-(WIP)
-- changes the CH-J3 from a stabilizer to a drone core with full features and a antenna
-working on making it show up in the probe core section rn 
+Converts the CH-J3 Fly By-Wire controller into a probe core. since the feature of enabling sas is useless in ksp2
