@@ -10,7 +10,7 @@ RA-100 Buff
 - doubles size from S to M
 
 Communotron 16, 16-S, and HG-5 antennas
-- communication range increased to 2.5Gm Mm, making them usefull for drones as long as you have a relay in the planetary sytem (jool has 2.3Gm SOI) 
+- communication range increased to 2.5Gm from 200 Mm, making them usefull for drones as long as you have a relay in the planetary sytem (jool has 2.3Gm SOI) 
 
 ----
 WIP crew cabin and probe core mod
