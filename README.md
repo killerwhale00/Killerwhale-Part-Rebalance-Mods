@@ -6,7 +6,7 @@ Changelog
 Antenna Balance Changes Mod
 
 RA-100 Buff
-- Communication range increased from 130 Gm to 1 Terameter for system wide relay networks.
+- Communication range increased from 130 Gm to 1 Terameter for system wide networks. (note that the ksc has a .8Tm range)
 - Mass increased from 0.65t to 2t
 - doubles size from S to M
 
